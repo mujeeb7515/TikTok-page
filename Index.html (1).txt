@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>میرا TikTok پروفائل</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background: #000;
+            color: #fff;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 25px;
+            background: #ff0050;
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 8px;
+        }
+        a:hover {
+            background: #e60045;
+        }
+    </style>
+</head>
+<body>
+    <h1>میرے TikTok پر خوش آمدید 🎵</h1>
+    <p>میرا آفیشل پروفائل فالو کریں!</p>
+    <a href="https://www.tiktok.com/@sargodhadashaheen" target="_blank">ابھی فالو کریں</a>
+</body>
+</html>
